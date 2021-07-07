@@ -2,11 +2,11 @@
 
 namespace TreehouseDefense
 {
-    class Program
+    class Game
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello Github");
+            Console.WriteLine("TreehouseDefense");
         }
     }
 }
