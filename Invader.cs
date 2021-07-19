@@ -23,7 +23,7 @@ namespace TreehouseDefense
         }
 
         //single line method syntax () =>
-        publc void Move() => _pathStep += 1;
+        public void Move() => _pathStep += 1;
 
         //traditional method syntax () {}
         public void DecreaseHealth(int factor)
